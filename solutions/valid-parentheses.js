@@ -1,3 +1,4 @@
+// O(n)
 var isValid = function (s) {
   const hash = {
     "(": ")",
