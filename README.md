@@ -1,3 +1,4 @@
 - Two sum: [Problem](https://leetcode.com/problems/two-sum/) | [Solution](two-sum/solution.js)
 - Roman to Integer: [Problem](https://leetcode.com/problems/roman-to-integer) | [Solution](roman-to-integer/solution.js)
 - Valid Parentheses: [Problem](https://leetcode.com/problems/valid-parentheses/) | [Solution](valid-parentheses/solution.js)
+- Maximum depth of binary tree: [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](maximum-depth-of-binary-tree/solution.js)
