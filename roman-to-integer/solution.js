@@ -22,5 +22,3 @@ var romanToInt = function (s) {
 
   return sum;
 };
-
-romanToInt("MCMXCIV");
