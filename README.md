@@ -4,3 +4,4 @@
 - Maximum depth of binary tree: [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](solutions/maximum-depth-of-binary-tree.js)
 - Matrix Diagonal Sum: [Problem](https://leetcode.com/problems/matrix-diagonal-sum/) | [Solution](solutions/matrix-diagonal-sum.js)
 - Group Anagrams: [Problem](https://leetcode.com/problems/group-anagrams/) | [Solution](solutions/group-anagrams.js)
+- Reverse Integer: [Problem](https://leetcode.com/problems/reverse-integer) | [Solution](solutions/reverse-integer.c)
