@@ -7,3 +7,4 @@
 - Reverse Integer: [Problem](https://leetcode.com/problems/reverse-integer) | [Solution](solutions/reverse-integer.c)
 - Factorial Trailing Zeroes: [Problem](https://leetcode.com/problems/factorial-trailing-zeroes) | [Solution](solutions/factorial-trailing-zeroes.c)
 - Length of Last Word: [Problem](https://leetcode.com/problems/length-of-last-word) | [Solution](solutions/length-of-last-word.js)
+- Detonate the Maximum Bombs: [Problem](https://leetcode.com/problems/detonate-the-maximum-bombs) | [Solution](solutions/detonate-the-maximum-bombs.js)
