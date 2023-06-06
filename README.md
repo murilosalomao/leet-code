@@ -9,3 +9,4 @@
 - Length of Last Word: [Problem](https://leetcode.com/problems/length-of-last-word) | [Solution](solutions/length-of-last-word.js)
 - Detonate the Maximum Bombs: [Problem](https://leetcode.com/problems/detonate-the-maximum-bombs) | [Solution](solutions/detonate-the-maximum-bombs.js)
 - Check If It Is a Straight Line: [Problem](https://leetcode.com/problems/check-if-it-is-a-straight-line) | [Solution](solutions/check-if-it-is-a-straight-line.js)
+- Can Make Arithmetic Progression From Sequence: [Problem](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence) | [Solution](solutions/can-make-arithmetic-progression-from-sequence.js)
