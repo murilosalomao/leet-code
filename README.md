@@ -12,3 +12,4 @@
 - Can Make Arithmetic Progression From Sequence: [Problem](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence) | [Solution](solutions/can-make-arithmetic-progression-from-sequence.js)
 - Find First and Last Position of Element in Sorted Array: [Problem](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Solution](solutions/find-first-and-last-position-of-element-in-sorted-array.js)
 - Minimum Flips to Make a OR b Equal to c: [Problem](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | [Solution](solutions/minimum-flips-to-make-a-or-b-equal-to-c.c)
+- Rotate Image: [Problem](https://leetcode.com/problems/rotate-image) | [Solution](solutions/rotate-image.js)
