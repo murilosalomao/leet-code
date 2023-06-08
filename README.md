@@ -13,3 +13,4 @@
 - Find First and Last Position of Element in Sorted Array: [Problem](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Solution](solutions/find-first-and-last-position-of-element-in-sorted-array.js)
 - Minimum Flips to Make a OR b Equal to c: [Problem](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | [Solution](solutions/minimum-flips-to-make-a-or-b-equal-to-c.c)
 - Rotate Image: [Problem](https://leetcode.com/problems/rotate-image) | [Solution](solutions/rotate-image.js)
+- Count Negative Numbers in a Sorted Matrix: [Problem](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | [Solution](solutions/count-negative-numbers-in-a-sorted-matrix.js)
