@@ -14,3 +14,4 @@
 - Minimum Flips to Make a OR b Equal to c: [Problem](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | [Solution](solutions/minimum-flips-to-make-a-or-b-equal-to-c.c)
 - Rotate Image: [Problem](https://leetcode.com/problems/rotate-image) | [Solution](solutions/rotate-image.js)
 - Count Negative Numbers in a Sorted Matrix: [Problem](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | [Solution](solutions/count-negative-numbers-in-a-sorted-matrix.js)
+- Find Smallest Letter Greater Than Target: [Problem](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | [Solution](solutions/find-smallest-letter-greater-than-target.js)

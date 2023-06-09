@@ -1,4 +1,4 @@
-// O(nlogn)
+// O(logn + n)
 var searchRange = function (nums, target) {
   if (nums.length == 0) return [-1, -1];
 
