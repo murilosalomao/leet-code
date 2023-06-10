@@ -15,13 +15,3 @@ var checkStraightLine = function (coordinates) {
 
   return true;
 };
-
-let a = [
-  [1, 1],
-  [2, 2],
-  [3, 4],
-  [4, 5],
-  [5, 6],
-  [7, 7],
-];
-console.log(checkStraightLine(a));
