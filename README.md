@@ -15,3 +15,4 @@
 - Rotate Image: [Problem](https://leetcode.com/problems/rotate-image) | [Solution](solutions/rotate-image.js)
 - Count Negative Numbers in a Sorted Matrix: [Problem](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | [Solution](solutions/count-negative-numbers-in-a-sorted-matrix.js)
 - Find Smallest Letter Greater Than Target: [Problem](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | [Solution](solutions/find-smallest-letter-greater-than-target.js)
+- Maximum Value at a Given Index in a Bounded Array: [Problem](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array) | [Solution](solutions/maximum-value-at-a-given-index-in-a-bounded-array.js)
