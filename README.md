@@ -17,3 +17,4 @@
 - Find Smallest Letter Greater Than Target: [Problem](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | [Solution](solutions/find-smallest-letter-greater-than-target.js)
 - Maximum Value at a Given Index in a Bounded Array: [Problem](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array) | [Solution](solutions/maximum-value-at-a-given-index-in-a-bounded-array.js)
 - Snapshot Array: [Problem](https://leetcode.com/problems/snapshot-array) | [Solution](solutions/snapshot-array.js)
+- Summary Ranges: [Problem](https://leetcode.com/problems/summary-ranges) | [Solution](solutions/summary-ranges.js)
