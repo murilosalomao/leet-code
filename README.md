@@ -18,3 +18,5 @@
 - Maximum Value at a Given Index in a Bounded Array: [Problem](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array) | [Solution](solutions/maximum-value-at-a-given-index-in-a-bounded-array.js)
 - Snapshot Array: [Problem](https://leetcode.com/problems/snapshot-array) | [Solution](solutions/snapshot-array.js)
 - Summary Ranges: [Problem](https://leetcode.com/problems/summary-ranges) | [Solution](solutions/summary-ranges.js)
+- Equal Row and Column Pairs
+  : [Problem](https://leetcode.com/problems/equal-row-and-column-pairs) | [Solution](solutions/equal-row-and-column-pairs.js)
