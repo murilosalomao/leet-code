@@ -20,3 +20,4 @@
 - Summary Ranges: [Problem](https://leetcode.com/problems/summary-ranges) | [Solution](solutions/summary-ranges.js)
 - Equal Row and Column Pairs: [Problem](https://leetcode.com/problems/equal-row-and-column-pairs) | [Solution](solutions/equal-row-and-column-pairs.js)
 - Minimum Absolute Difference in BST: [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | [Solution](solutions/minimum-absolute-difference-in-bst.cpp)
+- Maximum Level Sum of a Binary Tree: [Problem](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) | [Solution](solutions/maximum-level-sum-of-a-binary-tree.cpp)
