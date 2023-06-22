@@ -24,3 +24,4 @@
 - Number of Increasing Paths in a Grid: [Problem](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid) | [Solution](solutions/number-of-increasing-paths-in-a-grid.cpp)
 - Find the Highest Altitude: [Problem](https://leetcode.com/problems/find-the-highest-altitude) | [Solution](solutions/find-the-highest-altitude.cpp)
 - K Radius Subarray Averages: [Problem](https://leetcode.com/problems/k-radius-subarray-averages) | [Solution](solutions/k-radius-subarray-averages.cpp)
+- Best Time to Buy and Sell Stock with Transaction Fee: [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [Solution](solutions/best-time-to-buy-and-sell-stock-with-transaction-fee.cpp)
