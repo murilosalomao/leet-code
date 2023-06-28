@@ -25,3 +25,6 @@
 - Find the Highest Altitude: [Problem](https://leetcode.com/problems/find-the-highest-altitude) | [Solution](solutions/find-the-highest-altitude.cpp)
 - K Radius Subarray Averages: [Problem](https://leetcode.com/problems/k-radius-subarray-averages) | [Solution](solutions/k-radius-subarray-averages.cpp)
 - Best Time to Buy and Sell Stock with Transaction Fee: [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [Solution](solutions/best-time-to-buy-and-sell-stock-with-transaction-fee.cpp)
+- Longest Arithmetic Subsequence: [Problem](https://leetcode.com/problems/longest-arithmetic-subsequence) | [Solution](solutions/longest-arithmetic-subsequence.cpp)
+- Reducing Dishes: [Problem](https://leetcode.com/problems/reducing-dishes) | [Solution](solutions/reducing-dishes.cpp)
+- Climbing Stairs: [Problem](https://leetcode.com/problems/climbing-stairs) | [Solution](solutions/climbing-stairs.cpp)
