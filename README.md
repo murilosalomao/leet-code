@@ -29,3 +29,4 @@
 - Reducing Dishes: [Problem](https://leetcode.com/problems/reducing-dishes) | [Solution](solutions/reducing-dishes.cpp)
 - Climbing Stairs: [Problem](https://leetcode.com/problems/climbing-stairs) | [Solution](solutions/climbing-stairs.cpp)
 - First Missing Positive: [Problem](https://leetcode.com/problems/first-missing-positive) | [Solution](solutions/first-missing-positive.js)
+- Zigzag Conversion: [Problem](https://leetcode.com/problems/zigzag-conversion) | [Solution](solutions/zigzag-conversion.js)
